@@ -1,3 +1,5 @@
-# dc-allabout
-Pagina sobre a Dc comics com quizes, carteirinha e tals
+# TP2-LPW-DC-comics
 
+Dc comics: seja um DCnauta de carteirinha
+
+Integrantes: Pedro Tolentino e Maria Paula
